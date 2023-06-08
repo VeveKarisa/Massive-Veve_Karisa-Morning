@@ -9,6 +9,7 @@ import Css from "../Album/css.png";
 import Html from "../Album/html.png";
 import Figma from "../Album/figma.png";
 import Canva from "../Album/canva.png";
+//veve
 
 function About() {
   return (
