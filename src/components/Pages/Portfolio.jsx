@@ -18,7 +18,7 @@ function Portfolio() {
       >
         Portfolio
       </h1>
-      <div className="flex mt-10 mx-14">
+      <div className="flex flex-col lg:flex-row mt-10 mx-14">
         <div
           data-aos="fade-right"
           data-aos-offset="300"
@@ -105,7 +105,7 @@ function Portfolio() {
         </div>
       </div>
 
-      <div className="flex mx-14">
+      <div className="flex flex-col lg:flex-row mx-14">
         <div
           data-aos="fade-right"
           data-aos-offset="300"
